@@ -1,0 +1,93 @@
+
+    body {
+        position: absolute;
+        width: 1100px;
+        top: 0; 
+        left: 115px;
+        
+        
+    }
+    .all-body-img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        overflow: hidden;
+        background-size: cover;
+        background-color: black;
+    }
+
+    .lago-img img {
+        position: absolute;
+        top: 50px;
+        left: 0;
+        width: 180px;
+      }
+     
+      img {
+      }
+      ul {
+        font-size: 21px;
+        text-align: right;
+      }
+      li {
+        position: relative;
+        text-decoration: none;
+        list-style: none;
+        display: inline-block;
+        left: 0px;
+        width: 83px;
+        color: #303030;
+        background: #dcd9d9;
+        text-align: center;
+      }
+      ul li {
+        /*! line-height: 0 50px; */
+      }
+      ul li {
+        border: 1px solid #011a1a;
+      }
+      .titile-text h1 {
+        position: absolute;
+        text-align: center;
+        top: 262px;
+        overflow: hidden;
+        left: 280px;
+        color: white;
+    }
+    button:hover {
+        background: #e11313;
+        border: 1px solid black;
+    }
+    button {
+        position: relative;
+        width: 125px;
+        height: 50px;
+        font-size: 18px;
+        color: #FFF;
+        background-color: unset;
+    }
+    .btn-a {
+        position: absolute;
+        top: 470px;
+        left: 418px;
+    }
+    .titile-text p {
+        position: absolute;
+        top: 363px;
+        left: 285px;
+        width: 450px;
+        text-align: center;
+        color: white;
+    }
+    .lago-img img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        border-radius: 100px;
+    }
+    li:hover {
+        color: white;
+        background-color: #f40e0e;
+        box-shadow: 2px 2px 2px 2px #dee6ec;
+        border: 1px solid white;
+    }
